@@ -1,4 +1,4 @@
-source-maps
+talk-source-maps
 ===========
 
 Talk given at Shutterstock on October 22nd, 2014
