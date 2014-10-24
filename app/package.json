@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adambankin/talk-source-maps.git"
+    "url": "https://github.com/sblaurock/talk-source-maps.git"
   },
   "keywords": [
     "presentation"
@@ -16,9 +16,9 @@
   "author": "Steve Blaurock",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adambankin/talk-source-maps/issues"
+    "url": "https://github.com/sblaurock/talk-source-maps/issues"
   },
-  "homepage": "https://github.com/adambankin/talk-source-maps",
+  "homepage": "https://github.com/sblaurock/talk-source-maps",
   "dependencies": {
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13"
